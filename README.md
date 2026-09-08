@@ -1,5 +1,9 @@
 # AWS Elastic Block Store (EBS) Operations & Data Recovery
 
+## Architecture
+
+![architecture](images/architecture.png)
+
 ## Overview
 This repository documents the practical implementation of Amazon Elastic Block Store (EBS) lifecycle management and disaster recovery strategies using the AWS Management Console and Linux OS administration. The project demonstrates how to provision block storage, attach and format volumes on an Amazon EC2 Linux instance, execute point-in-time snapshot backups, simulate accidental data loss, and successfully restore data from a snapshot.
 
